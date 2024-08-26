@@ -1,0 +1,6 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+node_modules
+/bower_components
+f3-engine-firebase-adminsdk-68jy6-8c2fc9b4e9.json
+firebase.config.js
